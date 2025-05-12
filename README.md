@@ -23,6 +23,7 @@
 | [0066-plus-one](https://github.com/Bhanush16/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Bhanush16/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Bhanush16/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Bhanush16/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bhanush16/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -58,10 +59,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bhanush16/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bhanush16/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bhanush16/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bhanush16/LeetCode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
