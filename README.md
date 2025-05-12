@@ -22,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/Bhanush16/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Bhanush16/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Bhanush16/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Bhanush16/LeetCode/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/Bhanush16/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Bhanush16/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Bhanush16/LeetCode/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
 | ------- |
