@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Bhanush16/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Bhanush16/LeetCode/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/Bhanush16/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanush16/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Bhanush16/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0383-ransom-note](https://github.com/Bhanush16/LeetCode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Bhanush16/LeetCode/tree/master/1013-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Bhanush16/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
