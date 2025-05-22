@@ -10,7 +10,6 @@ class Solution(object):
             digit = x % 10
             x = x // 10
 
-            # Check for overflow before adding digit
             if rev > (INT_MAX - digit) // 10:
                 return 0
 
